@@ -12,7 +12,7 @@ I got this project as my mid term exam for my Artificial Neural Network course b
 
 ![image-5](https://github.com/radiadus/Exchange-Rate-Prediction/assets/55176713/256dde3b-52ae-41cf-8d3a-a01e21ed87e6)
 
-_(USD to IRP kurs dataset from 1980 until 2017)_
+_(USD to INR kurs dataset from 1980 until 2017)_
 
     plt.plot(data['Price'])
     plt.xlabel('Date')
