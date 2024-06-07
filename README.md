@@ -1,7 +1,7 @@
 # Exchange-Rate-Prediction
 using LSTM-RNN to predict USD to INR from 2010 to 2017.
 
-![output](https://github.com/radiadus/Exchange-Rate-Prediction/assets/55176713/8d783e9c-648d-4077-8165-b6a61b35266b)
+![Untitled](https://github.com/radiadus/Exchange-Rate-Prediction/assets/55176713/7f6839da-a812-4751-b92e-92f85fa3caa3)
 
 I got this project as my mid term exam for my Artificial Neural Network course back at 4th semester. In this project I have a dataset of US Dollar to Indian Rupee price from 1980 until 2017. I was using Tensorflow, Keras and Sklearn to me at this project. First of all I read the dataset that was in a .csv file. I was using pandas to read the csv file and print it as in the image below.
 
@@ -98,7 +98,7 @@ Here is the result of the model predictions and plot of it.
 
 _(actual price and prediction price side by side)_
 
-![image-14](https://github.com/radiadus/Exchange-Rate-Prediction/assets/55176713/3c79079d-a3d5-4bc7-90b9-b3d3d21e72e0)
+![Untitled](https://github.com/radiadus/Exchange-Rate-Prediction/assets/55176713/043991ca-468b-40e5-af8a-57e876983162)
 
 _(plot of prediction price (green) and actual price (orange))_
 
